@@ -1,5 +1,5 @@
 
-import React ,{useEffect,useState} from 'react';
+import React ,{useState} from 'react';
 import DayPicker from 'react-day-picker';
 import 'react-day-picker/lib/style.css';
 import moment from 'moment';
